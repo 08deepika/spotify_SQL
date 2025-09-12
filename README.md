@@ -1,7 +1,7 @@
 # spotify_SQL
 # 🎧 Spotify Advanced SQL Project –
 
-![Spotify Logo](https://github.com/yourusername/your-repo-name/blob/main/spotify_image.jpg)
+![Spotify Logo](https://github.com/yourusername/your-repo-name/blob/main/C:\Users\neelesh\Downloads\spotify_image.jpg)
 
 ## ✅ Project Overview
 
